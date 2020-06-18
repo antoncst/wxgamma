@@ -1,0 +1,7 @@
+BUT_ENCRYPT_TX	Encrypt
+BUT_DECRYPT_TX	Decrypt
+CHKBX_KEYFILE	Key File
+BUT_SRCFILEDLG_TOOLTIP	Open source data file
+TEXT_FILE	File:
+TEXT_PSW	Password:
+OVERWRITE_QSTN	Destination file exists. Overwrite?

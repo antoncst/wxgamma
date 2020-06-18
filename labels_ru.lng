@@ -1,0 +1,7 @@
+BUT_ENCRYPT_TX	Зашифровать
+BUT_DECRYPT_TX	Расшифровать
+CHKBX_KEYFILE	Ключевой файл
+BUT_SRCFILEDLG_TOOLTIP	Открыть файл исходных данных
+TEXT_FILE	Файл:
+TEXT_PSW	Пароль:
+OVERWRITE_QSTN	Файл существует. Перезаписать?
